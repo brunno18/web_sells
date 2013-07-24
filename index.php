@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title> Tex Produtos Naturais | Para uma Vida Saudável </title>
+		<title> Tex Produtos Naturais | Para uma Vida Saudï¿½vel </title>
 		<link href='http://fonts.googleapis.com/css?family=Stalinist+One' rel='stylesheet' type='text/css'>
 		<style type = "text/css">
 			body	{
@@ -148,21 +148,21 @@
 				
 				<p> 
 					Tex Produtos Naturais oferece uma ampla gama de produtos de qualidade preparados a partir do que a natureza oferece de melhor.
-					Plantas medicinais com alto poder cura, com eficácia compravada cientificamente.
+					Plantas medicinais com alto poder cura, com eficï¿½cia compravada cientificamente.
 				</p>
 				<h2> Fornecedores Internacionais </h2>
 				<p> A Tex Produtos Naturais conta com dois fornecedores internacionais </p>
 				
 				<p>
-					Forever Living Products (FLP), Forever Living Products International Inc. é uma empresa de plantio, 
-					processamento e distribuição de produtos de aloe vera (suco de babosa da família "Aloe Barbadensis Miller") e 
-					derivados de mel. Produtos ligados a saúde, higiene pessoal, estética, nutrição e gerenciamento de peso, como: 
-					bebidas, aromaterapia, cosméticos, suplementos alimentares, fitoterápicos, perfumes, redução de gorduras, combo paks.
+					Forever Living Products (FLP), Forever Living Products International Inc. ï¿½ uma empresa de plantio, 
+					processamento e distribuiï¿½ï¿½o de produtos de aloe vera (suco de babosa da famï¿½lia "Aloe Barbadensis Miller") e 
+					derivados de mel. Produtos ligados a saï¿½de, higiene pessoal, estï¿½tica, nutriï¿½ï¿½o e gerenciamento de peso, como: 
+					bebidas, aromaterapia, cosmï¿½ticos, suplementos alimentares, fitoterï¿½picos, perfumes, reduï¿½ï¿½o de gorduras, combo paks.
 				</p>
 				
 				<p>
-					A Herbalife é uma empresa multinacional de nutrição, controle de peso e nutrição externa. incorporada nas Ilhas Cayman1 
-					e com escritório sede nos Estados Unidos.
+					A Herbalife ï¿½ uma empresa multinacional de nutriï¿½ï¿½o, controle de peso e nutriï¿½ï¿½o externa. incorporada nas Ilhas Cayman1 
+					e com escritï¿½rio sede nos Estados Unidos.
 				</p>
 			</div>
 			
@@ -173,7 +173,7 @@
 			</div>
 			
 			<div id = "creditos">
-				<p>Copyright &copy; 2013 - <b>Text</b> <span> Produtos Naturais </span> </p>
+				<p>Copyright &copy; 2013 - <b>Text</b> <span> Produtos Naturais</span> </p>
 			</div>
 		</div>
 	</body>
